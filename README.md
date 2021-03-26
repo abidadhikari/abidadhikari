@@ -4,7 +4,7 @@
 
 I am from Nepal .Just started learning programming by utilizing self isolation during pandemic.
 
-Skills: HTML/CSS/JS/jQuery/PHP/React JS
+Skills: HTML/CSS/JS/PHP/React JS
 
 - 🔭 I’m currently working on my personal project 
 - 🌱 I’m currently learning Python and NodeJs 
