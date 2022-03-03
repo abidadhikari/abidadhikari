@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **A good programmer is someone who always looks both ways before crossing a one-way street.**
 
+<p></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidadhikari" alt="abidadhikari" /></a> </p>
 
 
