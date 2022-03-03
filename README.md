@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abid Adhikari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="abidadhikari" /> </p>
 
+- 🌱 I’m currently learning **JS Advance**
+
+- 👨‍💻 All of my projects are available at [https://www.abidadhikari.com.np](https://www.abidadhikari.com.np)
+
+- 📝 I regularly write articles on [https://www.adhikariabid.com.np](https://www.adhikariabid.com.np)
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **contact@abidadhikari.com.np**
+
+- ⚡ Fun fact **A good programmer is someone who always looks both ways before crossing a one-way street.**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidadhikari" alt="abidadhikari" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/abidadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abidadhikari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abidadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abidadhikari" height="30" width="40" /></a>
